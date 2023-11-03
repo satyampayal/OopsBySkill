@@ -1,0 +1,12 @@
+Q1. How many ways 
+
+
+void even(int num){
+    if(num==0){
+        return;
+    }
+    even(num-1);
+    if(num%2==0){
+        print(num);
+    }
+}

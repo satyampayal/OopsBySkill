@@ -11,6 +11,6 @@ public class Employee{
     }
 
     public static void main(String[] args) {
-        Employee amit=new Employee();
+      //  Employee amit=new Employee();
     }
 }
